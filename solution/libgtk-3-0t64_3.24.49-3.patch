@@ -1,7 +1,7 @@
-diff --git a/gtk/gtkeventbox.c b/gtk/gtkeventbox.c
+diff --git a/src/gtk+3.0-3.24.49/gtk/gtkeventbox.c b/src/gtk+3.0-3.24.49/gtk/gtkeventbox.c
 index 288b5ff..03d1f35 100644
---- a/gtk/gtkeventbox.c
-+++ b/gtk/gtkeventbox.c
+--- a/src/gtk+3.0-3.24.49/gtk/gtkeventbox.c
++++ b/src/gtk+3.0-3.24.49/gtk/gtkeventbox.c
 @@ -386,6 +386,8 @@ gtk_event_box_set_above_child (GtkEventBox *event_box,
      }
  }

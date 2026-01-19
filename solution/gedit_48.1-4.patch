@@ -1,7 +1,7 @@
-diff --git a/gedit/gedit-documents-panel.c b/gedit/gedit-documents-panel.c
+diff --git a/src/gedit-48.1/gedit/gedit-documents-panel.c b/src/gedit-48.1/gedit/gedit-documents-panel.c
 index c41d224..fbb6bfa 100644
---- a/gedit/gedit-documents-panel.c
-+++ b/gedit/gedit-documents-panel.c
+--- a/src/gedit-48.1/gedit/gedit-documents-panel.c
++++ b/src/gedit-48.1/gedit/gedit-documents-panel.c
 @@ -124,6 +124,7 @@ struct _GeditDocumentsPanel
  	guint               row_placeholder_index;
  	guint               row_destination_index;
