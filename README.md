@@ -42,3 +42,5 @@ This challenge is published around 20 Jan 2026 00:00 (UTC). I am planning to pub
 
 The solution is published under `solution/` and `solution.tgz`.
 
+Video: <https://youtu.be/9QSQzxLsh9w>
+
