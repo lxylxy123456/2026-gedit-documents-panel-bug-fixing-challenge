@@ -44,3 +44,8 @@ The solution is published under `solution/` and `solution.tgz`.
 
 Video: <https://youtu.be/9QSQzxLsh9w>
 
+### Bug reports
+
+* <https://gitlab.gnome.org/GNOME/gtk/-/issues/8008>
+	* <https://gitlab.gnome.org/GNOME/gtk/-/merge_requests/9418>
+
