@@ -38,3 +38,7 @@ sha512: 62560e6e765b25f709d0635732d2d2ac3dea432064ecb2d55d057ea0c835df198f5eb613
 
 This challenge is published around 20 Jan 2026 00:00 (UTC). I am planning to publish my workaround around 1 Feb 2026 00:00 (UTC). This time is subject to change.
 
+## Solution
+
+The solution is published under `solution/` and `solution.tgz`.
+
