@@ -48,4 +48,6 @@ Video: <https://youtu.be/9QSQzxLsh9w>
 
 * <https://gitlab.gnome.org/GNOME/gtk/-/issues/8008>
 	* <https://gitlab.gnome.org/GNOME/gtk/-/merge_requests/9418>
+* <https://gitlab.gnome.org/World/gedit/gedit/-/issues/637>
+	* <https://gitlab.gnome.org/World/gedit/gedit/-/merge_requests/179>
 
